@@ -1,0 +1,233 @@
+{
+ "name": "Bhuraji",
+ "children": [
+        {
+            "name": "Nooruddin",
+            "children": [
+                {
+                    "name": "Khwaja Hussain",
+                    "children": [
+                        {
+                            "name": "Ahmed Hussain","value":1983
+                        },
+                        {
+                            "name": "Shabbir Hussain","value":1983
+                        },
+                        {
+                            "name": "Mubarik Hussain","value":1983
+                        },
+                        {
+                            "name": "Husni Begum","value":1983
+                        },
+                        {
+                            "name": "Bano Begum","value":1983
+                        },
+                        {
+                            "name": "Hasina Begum","value":1983
+                        }
+                    ]
+                },
+                {
+                    "name": "Hafiz Abdul Hamid",
+                    "children": [
+                        {
+                            "name": "Mohammad Siddiq", "value":1983
+                        },
+                        {
+                            "name": "Gayasuddin", "value":1983
+                        },
+
+                        {
+                            "name": "Mohammad Amin", "value":1983
+                        },
+                        {
+                            "name": "Shujauddin", "value":1983
+                        },
+                        {
+                            "name": "Mehrunnisa", "value":1983
+                        },
+                        {
+                            "name": "Raisa Bi", "value":1983
+                        },
+                        {
+                            "name": "Fazlunnisa", "value":1983
+                        },
+                        {
+                            "name": "Rukhsana Bi", "value":1983
+                        }
+                    ]
+                },
+                {
+                    "name": "Aajmuddin",
+                    "children": [
+                        {
+                            "name": "Ziyaddin",
+                            "children":[
+                                {
+                                    "name": "Nirali","value": 2047
+                                },
+                                {"name": "Moin","value": 2047},
+                                {"name": "Salim","value": 2047},
+                                {"name": "Nizam","value": 2047},
+                                {"name": "Neha","value": 2047}                               
+                            ]
+                        },
+                        {
+                            "name": "Faiyazuddin",
+                                "children":[
+                                    {"name": "Farid Ahmed (Bablo)", "value":1083},
+                                    {
+                                        "name": "Pervez Ahmed",
+                                        "children":[
+                                            {"name": "Keyan","value": 1983},
+                                            {"name": "Alizah","value": 2047}
+                                        ]
+                                    },
+                                    {
+                                        "name": "Nahid Ahmed",
+                                        "children":[
+                                            {"name": "Sharleez","value": 1983},
+                                            {"name": "Nawaz Ahmed","value": 2047}
+                                        ]
+                                    },
+                                    {
+                                        "name": "Anvar Ahmed (Chotu)", 
+                                        "children":[
+                                            {"name": "Sufiya","value": 1983},
+                                            {"name": "Aiza","value": 2047}
+                                        ]
+                                    }
+                                ]
+                        },
+
+                        {
+                            "name": "Ayazuddin",
+                            "children":[
+                                {
+                                    "name": "Ayub Ahmed",
+                                    "children":[
+                                        {"name": "Yasin","value": 1983},
+                                        {"name": "Shirin","value": 2047}
+                                    ]
+                                },
+                                {"name": "Sardar","value": 2047},
+                                {"name": "Asrun","value": 2047},
+                                {"name": "Salma","value": 2047},
+                                {
+                                    "name": "Sajid Ahmed",
+                                    "children":[
+                                        {"name": "Arham Ahmed","value": 1983}
+                                    ]
+                                },                                
+                                {"name": "Chotu","value": 2047}                                
+                            ]
+                        },
+                        {
+                            "name": "Khaliluddin",
+                            "children":[
+                                {
+                                    "name": "Shaiesta (Rinku)",
+                                    "children":[
+                                        {"name": "Arisha", "value":1083}
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hasnuddin", "value":1983
+                        },
+                        {
+                            "name": "Rashida Begum", "value":1983
+                        },
+                        {
+                            "name": "Ramzano Begum",
+                            "children":[
+                                {"name": "Adil","value": 1983},
+                                {"name": "Shahid","value": 2047}
+                            ]
+                        },
+                        {
+                            "name": "Shama Begum",
+                            "children":[
+                                {"name": "Saba", "value":1083}
+                            ]
+
+                        }
+                    ]
+                },
+                {
+                    "name": "Wahiduddin",
+                    "children": [
+                        {
+                            "name": "Badruddin", "value":1983
+                        },
+                        {
+                            "name": "Sadruddin", "value":1983
+                        },
+
+                        {
+                            "name": "Alimuddin", "value":1983
+                        },
+                        {
+                            "name": "Sagiruddin", "value":1983
+                        },
+                        {
+                            "name": "Ghulam Moinuddin", "value":1983
+                        },
+                        {
+                            "name": "Shamshuddin", "value":1983
+                        },
+                        {
+                            "name": "Habiburrahman", "value":1983
+                        },
+                        {
+                            "name": "Asrar Bi", "value":1983
+                        },
+                        {
+                            "name": "Shezad Bi", "value":1983
+                        },
+                        {
+                            "name": "Rahila Bi", "value":1983
+                        },
+                        {
+                            "name": "Tasleem Ara", "value":1983
+                        }
+                    ]
+                },
+                {
+                    "name": "Sahiduddin",
+                    "children": [
+                        {
+                            "name": "Samiuddin", "value":1983
+                        },
+                        {
+                            "name": "Habibuddin", "value":1983
+                        },
+
+                        {
+                            "name": "Burhanuddin", "value":1983
+                        },
+                        {
+                            "name": "Ahteshamuddin", "value":1983
+                        },
+                        {
+                            "name": "Ghulam Moinuddin", "value":1983
+                        },
+                        {
+                            "name": "Mohammed Iqbal", "value":1983
+                        },
+                        {
+                            "name": "Mohammed Rafiq", "value":1983
+                        },
+                        {
+                            "name": "Habibunnisa", "value":1983
+                        },
+                        {
+                            "name": "Zarina Begum", "value":1983
+                        }
+                    ]
+                }
+                ]
+        }
+    ]
+}

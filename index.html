@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="the Nooruddin family tree showing all generations">
+        <meta name="keywords" content="Nooruddin, Mansuris, Noor Mahal, Nimbahera, family tree, family, generations">
+        <title>The Nooruddin Clan</title>
+        <link rel="stylesheet" type="text/css" href="./inspector.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="https://d3js.org/d3-selection.v1.min.js"></script>
+    </head>
+    <body>    
+        <script type="module">
+
+            import define from "./index.js";
+            import {Runtime, Library, Inspector} from "./runtime.js";
+            
+            const runtime = new Runtime();
+            const main = runtime.module(define, Inspector.into(document.body));
+            
+            </script>
+    </body>
+</html>
