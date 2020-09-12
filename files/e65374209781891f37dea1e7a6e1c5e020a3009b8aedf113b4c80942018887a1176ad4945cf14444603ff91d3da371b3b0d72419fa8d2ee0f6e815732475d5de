@@ -61,7 +61,7 @@
                     "name": "Aajmuddin",
                     "children": [
                         {
-                            "name": "Ziyaddin",
+                            "name": "Ziyauddin",
                             "children":[
                                 {
                                     "name": "Nirali","value": 2047
@@ -111,7 +111,7 @@
                                     ]
                                 },
                                 {"name": "Sardar","value": 2047},
-                                {"name": "Asrun","value": 2047},
+                                {"name": "Asrunnisa","value": 2047},
                                 {"name": "Salma","value": 2047},
                                 {
                                     "name": "Sajid Ahmed",
@@ -137,13 +137,109 @@
                             "name": "Hasnuddin", "value":1983
                         },
                         {
-                            "name": "Rashida Begum", "value":1983
+                            "name": "Rashida Begum w/o Mohammad Shafi Gouri", 
+                                "children": [
+                                {
+                                    "name": "Rahat Bi (Guddi) w/o Mohammad Rafiq Dayma", 
+                                    "children": [
+                                        {
+                                            "name": "Asma", "value":1983
+                                        },
+                                        {
+                                            "name": "Mohammad Rehman (deceased)", "value":1983
+                                        },
+                                        {
+                                            "name": "Mohammad Imran h/o Afsana", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Arif Gouri (Shezad) h/o Zubeida",
+                                    "children": [
+                                        {
+                                            "name": "Rukhsar", "value":1983
+                                        },
+                                        {
+                                            "name": "Shahrukh", "value":1983
+                                        },
+                                        {
+                                            "name": "Asif", "value":1983
+                                        },
+                                        {
+                                            "name": "Tasleem", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Israr Gouri (Tipu) h/o Zayeda",
+                                    "children": [
+                                        {
+                                            "name": "Shirin", "value":1983
+                                        },
+                                        {
+                                            "name": "Azhar", "value":1983
+                                        },
+                                        {
+                                            "name": "Aman", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Ashfaq Gouri (Manju) h/o Asrunnisa",
+                                    "children": [
+                                        {
+                                            "name": "Asra", "value":1983
+                                        },
+                                        {
+                                            "name": "Ashraf", "value":1983
+                                        }                                    ]                                    
+                                },
+                                {
+                                    "name": "Ashiq Gouri (Kalu)", "value":1983
+                                },
+                                {
+                                    "name": "Azim Gouri h/o Rani",
+                                    "children": [
+                                        {
+                                            "name": "Afzal", "value":1983
+                                        },
+                                        {
+                                            "name": "Baby", "value":1983
+                                        },
+                                        {
+                                            "name": "Alfaiz", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Farhat Bi w/o Rashid",
+                                    "children": [
+                                        {
+                                            "name": "Rahish", "value":1983
+                                        },
+                                        {
+                                            "name": "Reeba", "value":1983
+                                        }  
+                                    ]                                    
+                                }
+                            ]
                         },
                         {
                             "name": "Ramzano Begum",
                             "children":[
-                                {"name": "Adil","value": 1983},
-                                {"name": "Shahid","value": 2047}
+                                {
+                                    "name": "Adil Ahmed Gouri",
+                                    "children":[
+                                        {"name": "Uzer Gouri","value": 1983}
+                                    ]
+                                },
+                                {
+                                    "name": "Shahid Ahmed Gouri",
+                                    "children":[
+                                        {"name": "Rehan Gouri","value": 1983},
+                                        {"name": "Farhan Gouri","value": 2047}
+                                    ]
+                                }
                             ]
                         },
                         {

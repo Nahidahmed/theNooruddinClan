@@ -159,13 +159,13 @@ main.variable(observer("chart")).define("chart", ["d3","data","dy","margin","wid
 
   main.variable(observer("dx")).define("dx", function(){
     return(
-      15
+      20
     )}
   );
 
   main.variable(observer("dy")).define("dy", ["width"], function(width){
     return(
-      width / 10
+      width / 7
     )}
   );
 
