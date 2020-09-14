@@ -64,12 +64,57 @@
                             "name": "Ziyauddin",
                             "children":[
                                 {
-                                    "name": "Nirali","value": 2047
+                                    "name": "Sher bano (Nirali)",
+                                    "children":[
+                                        {"name": "Aqsa", "value":1083}
+                                    ]
                                 },
-                                {"name": "Moin","value": 2047},
-                                {"name": "Salim","value": 2047},
-                                {"name": "Nizam","value": 2047},
-                                {"name": "Neha","value": 2047}                               
+                                {
+                                    "name": "Moinuddin (Moin)",
+                                    "children": [
+                                        {
+                                            "name": "Mehreen", "value":1983
+                                        },
+                                        {
+                                            "name": "Afreen", "value":1983
+                                        },
+                                        {
+                                            "name": "Ayan", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Salim",
+                                    "children": [
+                                        {
+                                            "name": "Falak", "value":1983
+                                        },
+                                        {
+                                            "name": "Faheem", "value":1983
+                                        }
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Nizammuddin (Nazzu)",
+                                    "children": [
+                                        {
+                                            "name": "Rihan", "value":1983
+                                        }                                    ]                                    
+                                },
+                                {
+                                    "name": "Naseem (Neha)",
+                                    "children": [
+                                        {
+                                            "name": "Madiha", "value":1983
+                                        },
+                                        {
+                                            "name": "Mahin", "value":1983
+                                        },
+                                        {
+                                            "name": "Muzzammil", "value":1983
+                                        }
+                                    ]                                    
+                                }                               
                             ]
                         },
                         {
@@ -101,7 +146,7 @@
                         },
 
                         {
-                            "name": "Ayazuddin",
+                            "name": "Ayazuddin (Munnu)",
                             "children":[
                                 {
                                     "name": "Ayub Ahmed",
@@ -110,16 +155,40 @@
                                         {"name": "Shirin","value": 2047}
                                     ]
                                 },
-                                {"name": "Sardar","value": 2047},
-                                {"name": "Asrunnisa","value": 2047},
-                                {"name": "Salma","value": 2047},
+                                {
+                                    "name": "Sardar",
+                                    "children":[
+                                        {"name": "Anjum","value": 1983},
+                                        {"name": "Aman","value": 2047}
+                                    ]
+                                },
+                                {
+                                    "name": "Asrunnisa",
+                                    "children": [
+                                        {"name": "Asra", "value":1983},
+                                        {"name": "Ashraf", "value":2047}   
+                                    ]                                    
+                                },
+                                {
+                                    "name": "Salma",
+                                    "children":[
+                                        {"name": "Rehan Gouri","value": 1983},
+                                        {"name": "Farhan Gouri","value": 2047}
+                                    ]
+                                },
                                 {
                                     "name": "Sajid Ahmed",
                                     "children":[
                                         {"name": "Arham Ahmed","value": 1983}
                                     ]
                                 },                                
-                                {"name": "Chotu","value": 2047}                                
+                                {
+                                    "name": "Zafar Ahmed (Chotu)",
+                                    "children":[
+                                        {"name": "Ayan","value": 1983},
+                                        {"name": "Afiya","value": 2047}
+                                    ]
+                                }                                
                             ]
                         },
                         {
@@ -192,7 +261,8 @@
                                         },
                                         {
                                             "name": "Ashraf", "value":1983
-                                        }                                    ]                                    
+                                        }   
+                                    ]                                    
                                 },
                                 {
                                     "name": "Ashiq Gouri (Kalu)", "value":1983
@@ -225,7 +295,7 @@
                             ]
                         },
                         {
-                            "name": "Ramzano Begum",
+                            "name": "Ramzano Begum (Anjina)",
                             "children":[
                                 {
                                     "name": "Adil Ahmed Gouri",
