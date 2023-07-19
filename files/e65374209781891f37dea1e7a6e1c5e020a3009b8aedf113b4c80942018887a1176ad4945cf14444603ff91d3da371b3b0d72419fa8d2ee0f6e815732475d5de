@@ -37,7 +37,17 @@
                                     "name": "Rehana", "value":1983
                                 },
                                 {
-                                    "name": "Farooque", "value":1983
+                                    "name": "Farooque",
+                                    "children":[
+                                        {
+                                            "name": "Subohi (Gudiya)",
+                                            "children":[
+                                                {"name": "Samia","value": 1983}
+                                            ]
+                                        },
+                                        {"name": "Arshi Azim","value": 2047},
+                                        {"name": "Arsalan (Chotu)","value": 1375}
+                                    ]
                                 },
                                 {
                                     "name": "Mehmood", "value":1983
@@ -80,7 +90,7 @@
                             "name": "Shujauddin", "value":1983
                         },
                         {
-                            "name": "Mehrunnisa",   
+                            "name": "Mehrunnisa",
                             "children":[
                                 {
                                     "name": "Mohammad Rafi",
