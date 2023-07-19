@@ -8,7 +8,7 @@
                     "name": "Khwaja Hussain",
                     "children": [
                         {
-                            "name": "Ahmed Hussain","value":1983
+                            "name": "Ahmed Hussain","value":1983 
                         },
                         {
                             "name": "Shabbir Hussain","value":1983
@@ -31,7 +31,21 @@
                     "name": "Hafiz Abdul Hamid",
                     "children": [
                         {
-                            "name": "Mohammad Siddiq", "value":1983
+                            "name": "Mohammad Siddiq", 
+                            "children": [
+                                {
+                                    "name": "Rehana", "value":1983
+                                },
+                                {
+                                    "name": "Farooque", "value":1983
+                                },
+                                {
+                                    "name": "Mehmood", "value":1983
+                                },
+                                {
+                                    "name": "Shabnam", "value":1983
+                                }
+                            ]
                         },
                         {
                             "name": "Gayasuddin", "value":1983
