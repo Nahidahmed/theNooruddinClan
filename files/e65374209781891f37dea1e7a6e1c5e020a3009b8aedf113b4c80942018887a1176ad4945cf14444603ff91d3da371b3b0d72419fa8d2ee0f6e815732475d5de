@@ -80,7 +80,36 @@
                             "name": "Shujauddin", "value":1983
                         },
                         {
-                            "name": "Mehrunnisa", "value":1983
+                            "name": "Mehrunnisa", 
+                            "children":[
+                                {
+                                    "name": "Mohammad Rafi",
+                                    "children":[
+                                        {"name": "Aqsa","value": 1983},
+                                        {"name": "Mohammad Amaan","value": 2047}
+                                    ]
+                                },
+                                {
+                                    "name": "Husna Ara",
+                                    "children":[
+                                        {"name": "Hifzul Rehman (Chiku)","value": 1983},
+                                        {"name": "Fazle Hakim(Chintu)","value": 2047},
+                                        {"name": "Aslam (Mintu)","value": 1629}
+                                    ]
+                                },
+                                {"name": "Tasneem Ara","value": 1375},
+                                {
+                                    "name": "Qamar Ara",
+                                    "children":[
+                                        {"name": "Afreen","value": 1983},
+                                        {"name": "Aamir (Raja)","value": 2047},
+                                        {"name": "Mohammad Ahmed (Arshan)","value": 1375}
+                                    ]
+                                },
+                                {"name": "Burhaan","value": 2202},
+                                {"name": "Mohsin","value": 1382},
+                                {"name": "Sharif","value": 1629}
+                            ]
                         },
                         {
                             "name": "Raisa Bi", "value":1983
