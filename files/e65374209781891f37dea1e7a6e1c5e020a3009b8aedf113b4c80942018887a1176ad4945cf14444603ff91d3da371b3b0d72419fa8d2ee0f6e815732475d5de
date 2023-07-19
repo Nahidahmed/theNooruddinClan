@@ -8,7 +8,7 @@
                     "name": "Khwaja Hussain",
                     "children": [
                         {
-                            "name": "Ahmed Hussain","value":1983 
+                            "name": "Ahmed Hussain","value":1983
                         },
                         {
                             "name": "Shabbir Hussain","value":1983
@@ -31,7 +31,7 @@
                     "name": "Hafiz Abdul Hamid",
                     "children": [
                         {
-                            "name": "Mohammad Siddiq", 
+                            "name": "Mohammad Siddiq",
                             "children": [
                                 {
                                     "name": "Rehana", "value":1983
@@ -48,7 +48,7 @@
                             ]
                         },
                         {
-                            "name": "Gayasuddin", 
+                            "name": "Gayasuddin",
                             "children": [
                                 {
                                     "name": "Roshna", "value":1983
@@ -63,7 +63,7 @@
                         },
 
                         {
-                            "name": "Mohammad Amin", 
+                            "name": "Mohammad Amin",
                             "children": [
                                 {
                                     "name": "Nusrat(D)", "value":1983
@@ -80,7 +80,7 @@
                             "name": "Shujauddin", "value":1983
                         },
                         {
-                            "name": "Mehrunnisa", 
+                            "name": "Mehrunnisa",   
                             "children":[
                                 {
                                     "name": "Mohammad Rafi",
@@ -146,7 +146,7 @@
                                         {
                                             "name": "Ayan", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Salim",
@@ -157,14 +157,14 @@
                                         {
                                             "name": "Faheem", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Nizammuddin (Nazzu)",
                                     "children": [
                                         {
                                             "name": "Rihan", "value":1983
-                                        }                                    ]                                    
+                                        }                                    ]
                                 },
                                 {
                                     "name": "Naseem (Neha)",
@@ -178,8 +178,8 @@
                                         {
                                             "name": "Muzzammil", "value":1983
                                         }
-                                    ]                                    
-                                }                               
+                                    ]
+                                }
                             ]
                         },
                         {
@@ -201,7 +201,7 @@
                                         ]
                                     },
                                     {
-                                        "name": "Anvar Ahmed (Chotu)", 
+                                        "name": "Anvar Ahmed (Chotu)",
                                         "children":[
                                             {"name": "Sufiya","value": 1983},
                                             {"name": "Aiza","value": 2047}
@@ -231,8 +231,8 @@
                                     "name": "Asrunnisa",
                                     "children": [
                                         {"name": "Asra", "value":1983},
-                                        {"name": "Ashraf", "value":2047}   
-                                    ]                                    
+                                        {"name": "Ashraf", "value":2047}
+                                    ]
                                 },
                                 {
                                     "name": "Salma",
@@ -246,14 +246,14 @@
                                     "children":[
                                         {"name": "Arham Ahmed","value": 1983}
                                     ]
-                                },                                
+                                },
                                 {
                                     "name": "Zafar Ahmed (Chotu)",
                                     "children":[
                                         {"name": "Ayan","value": 1983},
                                         {"name": "Afiya","value": 2047}
                                     ]
-                                }                                
+                                }
                             ]
                         },
                         {
@@ -271,10 +271,10 @@
                             "name": "Hasnuddin", "value":1983
                         },
                         {
-                            "name": "Rashida Begum w/o Mohammad Shafi Gouri", 
+                            "name": "Rashida Begum w/o Mohammad Shafi Gouri",
                                 "children": [
                                 {
-                                    "name": "Rahat Bi (Guddi) w/o Mohammad Rafiq Dayma", 
+                                    "name": "Rahat Bi (Guddi) w/o Mohammad Rafiq Dayma",
                                     "children": [
                                         {
                                             "name": "Asma", "value":1983
@@ -285,7 +285,7 @@
                                         {
                                             "name": "Mohammad Imran h/o Afsana", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Arif Gouri (Shezad) h/o Zubeida",
@@ -302,7 +302,7 @@
                                         {
                                             "name": "Tasleem", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Israr Gouri (Tipu) h/o Zayeda",
@@ -316,7 +316,7 @@
                                         {
                                             "name": "Aman", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Ashfaq Gouri (Manju) h/o Asrunnisa",
@@ -326,8 +326,8 @@
                                         },
                                         {
                                             "name": "Ashraf", "value":1983
-                                        }   
-                                    ]                                    
+                                        }
+                                    ]
                                 },
                                 {
                                     "name": "Ashiq Gouri (Kalu)", "value":1983
@@ -344,7 +344,7 @@
                                         {
                                             "name": "Alfaiz", "value":1983
                                         }
-                                    ]                                    
+                                    ]
                                 },
                                 {
                                     "name": "Farhat Bi w/o Rashid",
@@ -354,8 +354,8 @@
                                         },
                                         {
                                             "name": "Reeba", "value":1983
-                                        }  
-                                    ]                                    
+                                        }
+                                    ]
                                 }
                             ]
                         },
