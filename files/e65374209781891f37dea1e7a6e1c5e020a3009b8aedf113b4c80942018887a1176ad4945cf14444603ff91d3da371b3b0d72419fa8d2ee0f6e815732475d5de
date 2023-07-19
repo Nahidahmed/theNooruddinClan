@@ -34,11 +34,14 @@
                             "name": "Mohammad Siddiq",
                             "children": [
                                 {
-                                    "name": "Rehana", "value":1983
+                                    "name": "Rehana",
+                                    "children":[
+                                        {"name": "Anwar","value": 1983}
+                                    ]
                                 },
                                 {
                                     "name": "Farooque",
-                                    "children":[ 
+                                    "children":[
                                         {
                                             "name": "Subohi (Gudiya)",
                                             "children":[
