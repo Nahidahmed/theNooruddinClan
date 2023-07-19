@@ -48,11 +48,33 @@
                             ]
                         },
                         {
-                            "name": "Gayasuddin", "value":1983
+                            "name": "Gayasuddin", 
+                            "children": [
+                                {
+                                    "name": "Roshna", "value":1983
+                                },
+                                {
+                                    "name": "Anis", "value":1983
+                                },
+                                {
+                                    "name": "Farida", "value":1983
+                                }
+                            ]
                         },
 
                         {
-                            "name": "Mohammad Amin", "value":1983
+                            "name": "Mohammad Amin", 
+                            "children": [
+                                {
+                                    "name": "Nusrat(D)", "value":1983
+                                },
+                                {
+                                    "name": "Wasim", "value":1983
+                                },
+                                {
+                                    "name": "Imran", "value":1983
+                                }
+                            ]
                         },
                         {
                             "name": "Shujauddin", "value":1983
