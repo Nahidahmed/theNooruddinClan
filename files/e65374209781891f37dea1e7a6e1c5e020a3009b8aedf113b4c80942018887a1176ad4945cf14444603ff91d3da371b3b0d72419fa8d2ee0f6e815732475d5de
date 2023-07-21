@@ -275,7 +275,8 @@
                                 {
                                     "name": "Shaiesta (Rinku)",
                                     "children":[
-                                        {"name": "Arisha", "value":1083}
+                                        {"name": "Arisha", "value":1083},
+                                        {"name": "Mohammad Omar", "value":1083}
                                     ]
                                 }
                             ]
