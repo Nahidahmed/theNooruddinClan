@@ -397,7 +397,11 @@
                         {
                             "name": "Shama Begum",
                             "children":[
-                                {"name": "Saba", "value":1083}
+                                { "name": "Saba", 
+                                  "children":[
+                                      {"name": "Mohammad Ibrahim","value": 1083}
+                                  ]
+                                }
                             ]
 
                         }
