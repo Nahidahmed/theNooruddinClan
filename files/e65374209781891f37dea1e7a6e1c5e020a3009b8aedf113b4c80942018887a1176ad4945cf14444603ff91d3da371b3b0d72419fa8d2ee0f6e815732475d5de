@@ -151,7 +151,10 @@
                                     "name": "Moinuddin (Moin)",
                                     "children": [
                                         {
-                                            "name": "Mehreen", "value":1983
+                                            "name": "Mehreen",
+                                            "children":[
+                                                {"name": "Zahra Bi", "value":1983}
+                                            ]
                                         },
                                         {
                                             "name": "Afreen", "value":1983
@@ -175,9 +178,9 @@
                                 {
                                     "name": "Nizammuddin (Nazzu)",
                                     "children": [
-                                        {
-                                            "name": "Rihan", "value":1983
-                                        }                                    ]
+                                        {"name": "Rihan", "value":1983},
+                                        {"name": "Azan", "value":1983}
+                                      ]
                                 },
                                 {
                                     "name": "Naseem (Neha)",
